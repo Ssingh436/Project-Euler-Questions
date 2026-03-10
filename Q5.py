@@ -1,4 +1,3 @@
-#Author: Brahmjot S.A.
 #Date: 21/02/26
 
 memo = {}
